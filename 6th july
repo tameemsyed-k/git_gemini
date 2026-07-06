@@ -1,0 +1,23 @@
+hard link & soft link
+todays learning is about shell scripting
+what is shebang
+echo $name will print the value of the variable 'name' in the terminal.
+$ is a special character used in shell scripting to denote a variable.
+ When you use $name, it retrieves the value stored in the variable 'name' and displays it in the terminal.
+what are exit codes
+echo $? will print the exit code of the last executed command. Exit codes are numerical values returned by commands to indicate their success or failure.
+ A value of 0 typically indicates success,
+ while any non-zero value indicates an error or failure.
+
+sed  & awk
+
+real time
+how to find the largest 10 files
+
+find
+
+journalctl
+
+cronjob & its logs
+
+top command, load average, how to increase memory size
